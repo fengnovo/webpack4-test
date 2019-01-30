@@ -1,0 +1,17 @@
+{
+  "name": "mywp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "banner-loader": "^0.0.2",
+    "loader-utils": "^1.2.3",
+    "schema-utils": "^1.0.0"
+  }
+}
